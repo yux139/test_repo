@@ -1,5 +1,6 @@
 ---
 title: Old Faithful Geyser
+Author: Yuejia XU
 ---
 
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
